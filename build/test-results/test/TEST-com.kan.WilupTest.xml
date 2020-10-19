@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kan.WilupTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-19T21:31:05" hostname="DESKTOP-COB1A4M" time="37.724">
+  <properties/>
+  <testcase name="wilup" classname="com.kan.WilupTest" time="37.724"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 36657
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 20, 2020 12:31:12 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Oct 20, 2020 12:31:23 AM org.openqa.selenium.interactions.Actions moveToElement
+INFO: When using the W3C Action commands, offsets are from the center of element
+]]></system-err>
+</testsuite>
